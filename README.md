@@ -13,6 +13,7 @@ Por ejemplo, en la primera linea encontrarás el equipo conformado por `Jane Doe
 |   Jane Doe    | John Doe      |
 | Sebastian Santander | Jesus Romero |
 | Moisés De La Hoz | Brayan Useche |
+| Jose Rodriguez | Issa Dovale |
 | Jesús Lozano |  |
 | Juan Dawd |  |
 
