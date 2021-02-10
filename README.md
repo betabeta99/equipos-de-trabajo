@@ -11,4 +11,4 @@ Por ejemplo, en la primera linea encontrarás el equipo conformado por `Jane Doe
 | Nombre estudiante 1 | Nombre estudiante 2           | 
 | ------------- |:-------------:| 
 |   Jane Doe    | John Doe      |
-|               |               |
+| Sebastian Santander | Jesus Romero |
